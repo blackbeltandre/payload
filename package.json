@@ -1,0 +1,28 @@
+{
+  "name": "static_data",
+  "version": "1.0.0",
+  "description": "just display json",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackbeltandre/return.git"
+  },
+  "keywords": [
+    "return",
+    "positif",
+    "values"
+  ],
+  "author": "Andre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackbeltandre/return/issues"
+  },
+  "homepage": "https://github.com/blackbeltandre/return#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1"
+  }
+}
